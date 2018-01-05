@@ -1,0 +1,28 @@
+h1, h2, h3, p, a {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#map {
+	width: 100%;
+	height: 400px;
+	background-color: grey;
+}
+
+.navbar {
+	background-color: #4f5661;
+}
+
+#navTitle{
+	font-size: 32px;
+	color: #d24840;
+	text-shadow:
+		-.5px -.5px 0 #ccc,
+		.5px -.5px 0 #ccc,
+		-.5px .5px 0 #ccc,
+		.5px .5px 0 #ccc;
+}
+
+#searchBox{
+	margin-left: 20px;
+}
+
