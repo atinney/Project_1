@@ -22,7 +22,7 @@ h1, h2, h3, p, a {
 		.5px .5px 0 #ccc;
 }
 
-#searchBox{
+#searchBox, .padding{
 	margin-left: 20px;
 }
 
